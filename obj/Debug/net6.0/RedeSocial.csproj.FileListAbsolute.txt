@@ -1,0 +1,7 @@
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.csproj.AssemblyReference.cache
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.AssemblyInfoInputs.cache
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.AssemblyInfo.cs
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.csproj.CoreCompileInputs.cache
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roxni\OneDrive\Área de Trabalho\.dev\_Portifolio\RedeSocial\obj\Debug\net6.0\RedeSocial.MvcApplicationPartsAssemblyInfo.cache
