@@ -1979,7 +1979,6 @@
       "FluentAssertions >= 6.11.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.19",
       "Microsoft.EntityFrameworkCore >= 6.0.19",
-      "Microsoft.EntityFrameworkCore.Analyzers >= 6.0.19",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.19",
       "Microsoft.Extensions.Http.Polly >= 6.0.19",
       "Npgsql >= 6.0.9",
@@ -2041,10 +2040,6 @@
             "version": "[6.0.19, )"
           },
           "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.19, )"
-          },
-          "Microsoft.EntityFrameworkCore.Analyzers": {
             "target": "Package",
             "version": "[6.0.19, )"
           },
